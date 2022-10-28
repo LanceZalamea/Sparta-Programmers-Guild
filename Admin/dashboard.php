@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <title>Manage Student Details</title>
-    <link rel="stylesheet" href="dashboard.css" />
+    <link rel="stylesheet" href="../css/dashboard.css" />
     <link
       href="https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css"
       rel="stylesheet"
@@ -95,7 +95,7 @@
         <div class="overview-boxes">
           <div class="box">
             <div class="right-side">
-              <div class="box-topic">Faculty</div>
+              <div class="box-topic">Population</div>
 
               <div class="number">
                 <!--PHP CODE HERE WHERE YOU WILL GET THE NUMBER OF FACULTY USER IN THE SYSTEM -->
@@ -106,7 +106,7 @@
           </div>
           <div class="box">
             <div class="right-side">
-              <div class="box-topic">Student Enrolled</div>
+              <div class="box-topic">Senior Citizen</div>
               <div class="number">
                 <!--PHP CODE HERE WHERE YOU WILL GET THE NUMBER OF FACULTY USER IN THE SYSTEM -->
               </div>
@@ -116,7 +116,17 @@
           </div>
           <div class="box">
             <div class="right-side">
-              <div class="box-topic">Department</div>
+              <div class="box-topic">Solo Parent</div>
+              <div class="number">
+                <!--PHP CODE HERE WHERE YOU WILL GET THE NUMBER OF FACULTY USER IN THE SYSTEM -->
+              </div>
+              <div class="indicator"></div>
+            </div>
+            <i class="bx bxs-user-circle circle"></i>
+          </div>
+          <div class="box">
+            <div class="right-side">
+              <div class="box-topic">Overseas Filipino Workers</div>
               <div class="number">
                 <!--PHP CODE HERE WHERE YOU WILL GET THE NUMBER OF FACULTY USER IN THE SYSTEM -->
               </div>
@@ -125,31 +135,6 @@
             <i class="bx bxs-user-circle circle"></i>
           </div>
         </div>
-        <!--THIS IS THE CODE OF CHECKING ATTENDANCE IN DASHBAORD PART. KONTI LANG DITO MEDYO MAGPAKITA PA LANG NG INFO KONTI.
-      YOU SHOULD ALSO PUT HERE A PHP CODE WHERE IN GETTING ALL THE NEED DATA AS YOU CAN SEE IN YOUR SCREEN RIGHT NOW -->
-        <div class="sales-boxes">
-          <div class="recent-sales box">
-            <div class="title">Attendance | Today</div>
-            <div class="sales-details">
-              <ul class="details">
-                <li class="topic">Student No.</li>
-                <li><a href="#">123456</a></li>
-              </ul>
-              <ul class="details">
-                <li class="topic">Time In</li>
-                <li><a href="#">1:16 pm</a></li>
-              </ul>
-              <ul class="details">
-                <li class="topic">Log Date</li>
-                <li><a href="#">Oct 25, 2022</a></li>
-              </ul>
-            </div>
-            <div class="button">
-              <a href="#">See All</a>
-            </div>
-          </div>
-        </div>
-      </div>
     </section>
 
     <script>
