@@ -313,7 +313,7 @@ nav .profile-details i{
 
 
 /* Responsive Media Query */
-@media (max-width: 1240px) {
+@media (max-device-width: 1240px) {
   .sidebar{
     width: 60px;
   }
@@ -338,7 +338,7 @@ nav .profile-details i{
     left: 220px;
   }
 }
-@media (max-width: 1150px) {
+@media (max-device-width: 1150px) {
   .home-content .sales-boxes{
     flex-direction: column;
   }
@@ -351,13 +351,13 @@ nav .profile-details i{
     margin: 0;
   }
 }
-@media (max-width: 1000px) {
+@media (max-device-width: 1000px) {
   .overview-boxes .box{
     width: calc(100% / 2 - 15px);
     margin-bottom: 15px;
   }
 }
-@media (max-width: 700px) {
+@media (max-device-width: 700px) {
   nav .sidebar-button .dashboard,
   nav .profile-details .admin_name,
   nav .profile-details i{
@@ -371,7 +371,7 @@ nav .profile-details i{
     width: 560px;
   }
 }
-@media (max-width: 550px) {
+@media (max-device-width: 550px) {
   .overview-boxes .box{
     width: 100%;
     margin-bottom: 15px;
@@ -380,7 +380,7 @@ nav .profile-details i{
     display: none;
   }
 }
-  @media (max-width: 400px) {
+  @media (max-device-width: 400px) {
   .sidebar{
     width: 0;
   }
