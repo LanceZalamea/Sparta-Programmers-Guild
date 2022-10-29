@@ -24,59 +24,30 @@
           </a>
         </li>
         <li>
-          <a href="course.php">
+          <a href="#">
             <i class="bx bx-list-ul"></i>
             <span class="links_name">Over all Population</span>
           </a>
         </li>
         <li>
-          <a href="student.php">
+          <a href="#">
             <i class="bx bx-box"></i>
             <span class="links_name">Person with Disabilities</span>
           </a>
         </li>
         <li>
-          <a href="course.php">
+          <a href="#">
             <i class="bx bx-list-ul"></i>
             <span class="links_name">Senior Citizen</span>
           </a>
         </li>
         <li>
-          <a href="semester.php">
+          <a href="#">
             <i class="bx bx-pie-chart-alt-2"></i>
             <span class="links_name">Solo Parent</span>
           </a>
         </li>
-        <li>
-          <a href="class.php">
-            <i class="bx bx-pie-chart-alt-2"></i>
-            <span class="links_name">Class Management</span>
-          </a>
-        </li>
-        <li>
-          <a href="enrolled_students.php">
-            <i class="bx bx-coin-stack"></i>
-            <span class="links_name">Enrolled Students</span>
-          </a>
-        </li>
-        <li>
-          <a href="instructor.php">
-            <i class="bx bx-grid-alt"></i>
-            <span class="links_name">Instructor</span>
-          </a>
-        </li>
-        <li>
-          <a href="report.php">
-            <i class="bx bxs-report"></i>
-            <span class="links_name">Attendance Report</span>
-          </a>
-        </li>
-        <li>
-          <a href="user.php">
-            <i class="bx bx-user"></i>
-            <span class="links_name">User</span>
-          </a>
-        </li>
+  <!--ADD PA NG IBANG NAVIGATION HINDI LANG ITO -->
         <li class="log_out">
           <a href="logout.php">
             <i class="bx bx-log-out"></i>
