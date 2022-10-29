@@ -24,21 +24,27 @@
           </a>
         </li>
         <li>
+          <a href="course.php">
+            <i class="bx bx-list-ul"></i>
+            <span class="links_name">Over all Population</span>
+          </a>
+        </li>
+        <li>
           <a href="student.php">
             <i class="bx bx-box"></i>
-            <span class="links_name">student Profile</span>
+            <span class="links_name">Person with Disabilities</span>
           </a>
         </li>
         <li>
           <a href="course.php">
             <i class="bx bx-list-ul"></i>
-            <span class="links_name">Course</span>
+            <span class="links_name">Senior Citizen</span>
           </a>
         </li>
         <li>
           <a href="semester.php">
             <i class="bx bx-pie-chart-alt-2"></i>
-            <span class="links_name">Semester</span>
+            <span class="links_name">Solo Parent</span>
           </a>
         </li>
         <li>
