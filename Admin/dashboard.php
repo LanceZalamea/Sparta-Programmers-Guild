@@ -20,7 +20,7 @@
         <li>
           <a href="dashboard.php" class="active">
             <i class="bx bx-grid-alt"></i>
-            <span class="links_name">Dashboard</span>
+            <span class="links_name">Dashboards</span>
           </a>
         </li>
         <li>
